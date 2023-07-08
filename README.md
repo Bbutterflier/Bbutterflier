@@ -9,7 +9,7 @@
 <br>
 <p align="center">
   <br>
-  🔬 Amazing Web & Blockchain developer
+  🔬 Amazing Full Stack developer
   <br>
   
 </p>
@@ -29,6 +29,9 @@
   </a> 
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="25"/>
+  </a> 
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="unity" height="25"/>
   </a> 
   <a href="https://www.chartjs.org" target="_blank">
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" height="25"/>
