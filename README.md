@@ -13,7 +13,7 @@
   <br>
   
 </p>
-![My Main Skills](https://skillicons.dev/icons?i=js,html,css,ts,nextjs,react,unity,tailwind,graphql,astro,nodejs,git,express,postgres)
+My Main Skills!!! <img src= "https://skillicons.dev/icons?i=js,html,css,ts,nextjs,react,unity,tailwind,graphql,astro,nodejs,git,express,postgres"/>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
