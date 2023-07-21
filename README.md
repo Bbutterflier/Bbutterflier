@@ -1,7 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=freedevsoft.freedevsoft">
 
-
-My Main Skills!!! <img src= "https://skillicons.dev/icons?i=angular,unity,html,css,js,ts,nextjs,react,tailwind,graphql,astro,nodejs,git,express,postgres"/>
+<hr>
+<h2 align="center">🔥 Main Skills 🔥</h2>
+<br>
+<img src= "https://skillicons.dev/icons?i=angular,unity,html,css,js,ts,nextjs,react,tailwind,graphql,astro,nodejs,git,express,postgres"/>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
@@ -137,18 +139,3 @@ My Main Skills!!! <img src= "https://skillicons.dev/icons?i=angular,unity,html,c
   </a>
 </p>
 <hr>
-
-<h2 align="center">⚡ Profile Trophy ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=freedevsoft&theme=react-dark&bg_color=#20232a&hide_border=true" alt="freedevsoft" /></a>
-  </div>
-  <br>
-</p>
-<hr>
-
-<h4 align="center">
-  <a href="https://github.com/Bbutterflier?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
-</h4>
-
